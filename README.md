@@ -1,4 +1,4 @@
-1. Open ipynb in google collab to run jupyter notebook
+1. Open ipynb in google colab to run jupyter notebook
 
 Dependencies to be installed
 ```sh
